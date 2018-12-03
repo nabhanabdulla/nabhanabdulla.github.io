@@ -1,0 +1,13 @@
+title: Blog on the go!
+author: nabhanabdulla
+email: nabhu123@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Personal blog of @nabhanabdulla. Planning to log technical experiences.
+
+# social links
+twitter_username: nabhanabdullapv
+github_username:  nabhanabdulla
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima
